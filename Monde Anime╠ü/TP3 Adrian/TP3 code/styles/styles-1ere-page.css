@@ -1,0 +1,138 @@
+body{
+    height: 500px;
+    background-image: url(../images/image-notebook.jpg);
+    
+}
+.notebook
+
+/* TITRE 1 */ 
+
+.title-steamboat{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+}
+
+.date-steamboat{
+    text-align: left;
+    padding-left: 90px;
+}
+
+.title-group1{
+    height: 200px;
+    width: 300px;
+
+    position: relative;
+    top: 450px;
+    left: 200px;
+
+}
+
+.text1{
+    width: 300px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* TITRE 2 */ 
+
+.title-group2{
+    height: 100px;
+    width: 400px;
+
+    position: relative;
+    left: 800px;
+}
+
+.title-looney-tunes{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+}
+
+.date-looney-tunes{
+    text-align:center;
+    padding-right: 200px;
+    
+}
+
+
+
+.image-looney-tunes{
+    position: relative;
+    top: 5px;
+    right: 20px;
+}
+
+.text2{
+    width: 300px;
+    text-align: center;
+    position:relative;
+    right:50px
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* TITRE 3 */ 
+
+.title-tom-jerry{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+}
+
+.date-tom-jerry{
+    text-align: left;
+    padding-left: 80px;
+}
+
+.title-group3{
+    height: 100px;
+    width: 400px;
+
+    position: relative;
+    
+    left: 1400px;
+    top:350px;
+}
+
+.image-tom-jerry{
+    scale: 0.45;
+    position: relative;
+    bottom: 400px;
+    left: 450px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.text3{
+    width: 300px;
+    text-align: center;
+    position:relative;
+    right:50px
+}
+
+
+
+/* Image 1*/
+
+.image-mickey2 {
+    height: 175px;
+    position: relative;
+
+    top: 0px;
+    right: 50px ;
+
+    
+}
+

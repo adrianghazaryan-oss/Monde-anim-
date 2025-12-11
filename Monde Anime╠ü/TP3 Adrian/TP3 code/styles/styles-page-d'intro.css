@@ -1,0 +1,150 @@
+
+/* TITRE 1 */ 
+body{
+    background-color: black;
+    color: white;
+    height: 500px;
+    
+}
+.title{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+.date{
+    text-align: left;
+    padding-left: 90px;
+}
+
+.title-group1{
+    position: absolute;
+    width: 20%;
+    height: 15%;
+    top: 15%;
+    left: 10%;
+    background-color: rgba(0, 0, 0, 0.514);
+    border-radius: 40px;
+    padding: 20px;
+    transition: scale 0.3s ease;
+}
+
+.title-group1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    scale: 1.3;
+
+}
+
+a {
+    text-decoration: none;
+    /* color: black; */
+}
+
+/* TITRE 2 */ 
+
+.title2{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+}
+
+.date2{
+    text-align:center;
+    padding-right: 50px;
+    
+}
+
+.title-group2{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    top: 50%;
+    left: 35%;
+    background-color: rgba(0, 0, 0, 0.514);
+    border-radius: 40px;
+    padding: 20px;
+    transition: scale 0.3s ease;
+}
+
+.title-group2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    scale: 1.3;
+}
+
+a {
+    text-decoration: none;
+    /* color: black; */
+}
+
+/* TITRE 3 */ 
+
+.title3{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+}
+
+.date3{
+    text-align: left;
+    padding-left: 125px;
+}
+
+.title-group3{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    top: 15%;
+    left: 68%;
+    background-color: rgba(0, 0, 0, 0.514);
+    border-radius: 40px;
+    padding: 20px;
+    transition: scale 0.3s ease;
+}
+
+.title-group3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    scale: 1.3;
+}
+
+a {
+    text-decoration: none;
+    /* color: black; */
+}
+
+/* Image 1*/
+
+.image1 {
+    background: url("../images/image-mickey.jpg") no-repeat center/cover;
+    background-size: left;
+    height: 100vh;
+    clip-path: polygon(0 0, 0% 100%, 50% 0);
+}
+
+/* Image 2*/
+
+.image2 {
+    background: url(../images/image-disney.jpg) no-repeat center/cover;
+    background-size: center;
+    height: 100vh;
+    clip-path: polygon(0 100%, 100% 100%, 50% 0);
+    position: relative;
+    top: -703px;
+
+}
+/* Image 3*/
+
+.image3 {
+    background: url(../images/image-simpsons.png) no-repeat center/cover;
+    background-size: right;
+    height: 100vh;
+    clip-path: polygon(100% 0, 100% 100%, 50% 0);
+    position: relative;
+    top: -1408px;
+}

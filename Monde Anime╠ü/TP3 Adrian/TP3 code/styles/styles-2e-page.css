@@ -1,0 +1,168 @@
+body{
+    height: 500px;
+    background-image: url(../images/image-castle.jpg);
+}
+
+.notebook
+
+/* TITRE 1 */ 
+
+
+.title-cinderella{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+
+    position: absolute;
+    top: 150px;
+    color: white;
+}
+
+
+
+.title-group1{
+    height: 200px;
+    width: 300px;
+
+    position: relative;
+    top: 150px;
+    left: 1600px;
+    color: white;
+
+}
+
+.text1{
+    width: 1500px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+
+    position: absolute;
+    top: 150px;
+    color:white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.image-cinderella{
+    scale: 0.15;
+    position: absolute;
+    bottom: -35%;
+    left: 68%;
+}
+
+/* TITRE 2 */ 
+
+.title-dalmatian{
+    text-align:center;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+
+    position: relative;
+    right: 1630px;
+    color: white;
+  
+}
+
+
+
+.title-group2{
+    height: 200px;
+    width: 300px;
+
+    position: relative;
+    top: 250px;
+    left: 1600px;
+    color: white;
+}
+
+.text2{
+    width: 1300px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+
+    position: absolute;
+    top: 475px;
+    left: 450px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.image-dalmatian{
+    scale: 0.35;
+    position: absolute;
+    top: 25%;
+    left: 8%;
+    
+}
+
+/* TITRE 3 */ 
+
+.title-robin{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    color: white;
+}
+
+
+
+.title-group3{
+    height: 200px;
+    width: 300px;
+
+    position: relative;
+    top: 150px;
+    left: 1600px;
+
+}
+
+.text3{
+    width: 1300px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+
+    position: absolute;
+    top: 750px;
+    left: 50px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.image-robin{
+    scale: 0.35;
+    position: absolute;
+    top: 62%;
+    left: 85%;
+}
+
+
+
+/* Image 1*/
+
+.image-mickey2 {
+    height: 175px;
+    position: relative;
+
+    top: 0px;
+    right: 50px ;
+
+    
+}

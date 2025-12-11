@@ -1,0 +1,162 @@
+body{
+    height: 500px;
+    background-image: url(../images/image-cn.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 170%;
+}
+
+
+.title-simpsons{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+
+    position: absolute;
+    top: 380px;
+    left: -1400px;
+    color: white;
+}
+
+
+
+.title-group1{
+    height: 200px;
+    width: 300px;
+
+    position: relative;
+    top: 150px;
+    left: 1600px;
+    color: white;
+
+}
+
+.text1{
+    width: 700px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+
+    position: absolute;
+    top: 600px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.image-simpsons{
+    scale: 0.2;
+    position: absolute;
+    top: -10%;
+    left: -35%;
+}
+
+
+
+
+
+.title-group2{
+    height: 100px;
+    width: 400px;
+
+    position: relative;
+    left: 735px;
+    top: -40px;
+    color: white;
+}
+
+.title-teen-titans{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+    color: white;
+}
+
+.date-teen-titans{
+    text-align:center;
+    padding-right: 200px;
+    color: white;
+    
+}
+
+
+
+.image-teen-titans{
+    position: relative;
+    top: -855px;
+    right: -360px;
+    scale: 0.15;
+}
+
+.text2{
+    width: 500px;
+    text-align: center;
+    position:relative;
+    right:-620px;
+    font-weight: bold;
+    top: 150px;
+    font-size: x-large;
+    color: white;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+.title-group3{
+    height: 100px;
+    width: 400px;
+
+    position: relative;
+    left: 1400px;
+    top: -1435px;
+    color: white;
+}
+
+.title-rs{
+    text-align:left;
+    vertical-align:text-bottom;
+    font-weight: bolder;
+    color: white;
+}
+
+.date-rs{
+    text-align:center;
+    padding-right: 200px;
+    color: white;
+    
+}
+
+
+
+.image-rs{
+    position: relative;
+    top: -2075px;
+    left: 77%;
+    scale: 0.4;
+}
+
+.text3{
+    width: 500px;
+    text-align: center;
+    position:relative;
+    right:-1275px;
+    font-weight: bold;
+    top: -1500px;
+    font-size: x-large;
+    color: white;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
